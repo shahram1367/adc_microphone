@@ -1,6 +1,6 @@
 # adc_microphone
-ADC with DMA \n
-input: analog input(microphoe)
+ADC with DMA 
+\n input: analog input(microphoe)
 output: LEDs set and reset selected as output (digital output)
  		
 		if( adc_Result < 1241 ){
