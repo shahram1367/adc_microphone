@@ -2,7 +2,7 @@
 ADC with DMA
 input: analog input(microphoe)
 output: LEDs set and reset selected as output (digital output)
-/* if( adc_Result < 1241 ){
+ if( adc_Result < 1241 ){
 		
 		HAL_GPIO_TogglePin(user_1_GPIO_Port, user_1_Pin);
 					}
@@ -16,5 +16,5 @@ output: LEDs set and reset selected as output (digital output)
 			HAL_GPIO_TogglePin(user_3_GPIO_Port, user_3_Pin);
 		}
 	HAL_Delay(1);
-  */
+  
 	
